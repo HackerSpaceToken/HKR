@@ -4,7 +4,9 @@
 
                                     Informações sobre a criptomoeda 
 
-                                      Total Supply 100,000,000 HKS
+                                    Total Supply 10,000,000,000 HKS
+                                      
+                                          
 
 
 
