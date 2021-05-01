@@ -5,6 +5,12 @@
                                     Informações sobre a criptomoeda 
 
                                     Total Supply 10,000,000,000 HKS
+                                    
+                                    40% dos tokens foram queimados
+                                
+                                       40% estão na Pancake Swap
+                                    
+                                    20% está na Carteira Criadora 
                                       
                                           
 
